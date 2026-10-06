@@ -2,11 +2,7 @@
 
 
 
-!\[IT Support Ticket Performance Dashboard](assets/Dashboard.png)
-
-
-
-\## 📊 Project Overview
+!\[Dashboard](https://raw.githubusercontent.com/dataWithVarsha/it-support-ticket-performance-analysis/main/assets/Dashboard.png)
 
 
 
@@ -26,15 +22,15 @@ I created this project to improve my practical skills in Power BI, DAX, Data Ana
 
 
 
-\- Microsoft Power BI
+\* Microsoft Power BI
 
-\- Power Query
+\* Power Query
 
-\- DAX (Data Analysis Expressions)
+\* DAX (Data Analysis Expressions)
 
-\- Microsoft Excel
+\* Microsoft Excel
 
-\- GitHub
+\* GitHub
 
 
 
@@ -42,17 +38,17 @@ I created this project to improve my practical skills in Power BI, DAX, Data Ana
 
 
 
-\- Analyze total and resolved tickets
+\* Analyze total and resolved tickets
 
-\- Understand ticket status and priority
+\* Understand ticket status and priority
 
-\- Analyze ticket resolution time
+\* Analyze ticket resolution time
 
-\- Track SLA performance
+\* Track SLA performance
 
-\- Analyze customer satisfaction
+\* Analyze customer satisfaction
 
-\- Identify useful business insights
+\* Identify useful business insights
 
 
 
@@ -80,21 +76,21 @@ I created this project to improve my practical skills in Power BI, DAX, Data Ana
 
 
 
-\- Data Cleaning
+\* Data Cleaning
 
-\- Data Transformation
+\* Data Transformation
 
-\- Data Modeling
+\* Data Modeling
 
-\- DAX Measures
+\* DAX Measures
 
-\- KPI Creation
+\* KPI Creation
 
-\- Data Visualization
+\* Data Visualization
 
-\- Dashboard Design
+\* Dashboard Design
 
-\- Business Insights
+\* Business Insights
 
 
 
