@@ -1,4 +1,4 @@
-\# IT Support Ticket Performance Analysis
+# IT Support Ticket Performance Analysis
 
 
 
