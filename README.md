@@ -1,12 +1,20 @@
 # IT Support Ticket Performance Analysis
 
-![Dashboard](./assets/Dashboard.png)
+## 📊 Dashboard Preview
+
+### Overview
+
+![Overview](assets/Dashboard.png)
 
 This project is a Power BI dashboard created to analyze IT support ticket performance.
 
 The dashboard helps understand ticket status, priority, resolution time, SLA performance, and customer satisfaction.
 
 I created this project to improve my practical skills in Power BI, DAX, Data Analysis, and Dashboard Design.
+
+### Insights & Action Recommendations
+
+![Insights](assets/Insights.png)
 
 ## 🛠️ Tools Used
 
