@@ -2,7 +2,7 @@
 
 
 
-!\[Dashboard](https://raw.githubusercontent.com/dataWithVarsha/it-support-ticket-performance-analysis/main/assets/Dashboard.png)
+!\[Dashboard](assets/Dashboard.png)
 
 
 
